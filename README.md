@@ -1,8 +1,33 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Thence Internship
 
-Currently, two official plugins are available:
+This is a project for the internship opportunity in the company thence. This is a pure react based landing page and form validation with the use of reactjs, framer-motion, react-router-dom, zod and tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Lakshayyy-m/thence-internship
+```
+
+Go to the project directory
+
+```bash
+  cd thence
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
